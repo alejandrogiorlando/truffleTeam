@@ -1,0 +1,1 @@
+import MigrationsArtifacts from './build/contracts';
